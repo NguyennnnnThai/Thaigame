@@ -4,7 +4,7 @@
 # Giới thiệu game
 Trái đất đang phải đối mặt với nguy cơ bị xâm lược từ lũ ngoài hành tinh xấu xa, hãy đứng lên chiến đấu và bảo vệ tương lai của chúng ta!!!
 # Video game
-Bạn có thể xem video tại link : https://youtu.be/pU70QFBoNeo
+Bạn có thể xem video tại link : https://youtu.be/bY7W1RyvId0
 # Một số hình ảnh trong game
 ## Main menu
 ![](menu.png)
